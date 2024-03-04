@@ -167,7 +167,7 @@ st.sidebar.image("https://jugnoo.io/wp-content/uploads/2022/05/on-demand-bike-sh
 st.sidebar.header("Filter:")
 # Memilih rentang tanggal dengan date_input di sidebar
 start_date, end_date = st.sidebar.date_input(
-    label="Date Filter",
+    label="Date",
     min_value=min_date,
     max_value=max_date,
     value=[min_date, max_date]
@@ -183,7 +183,7 @@ st.sidebar.markdown("Silvia Dharma")
 # Menambahkan tautan LinkedIn di sidebar
 col1 = st.sidebar
 with col1:
-    st.markdown("[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://id.linkedin.com/in/silvia-dharma-1a7265219?trk=public_profile_browsemap)")
+    st.markdown("[![LinkedIn]](https://id.linkedin.com/in/silvia-dharma-1a7265219?trk=public_profile_browsemap)")
 
 # Menambahkan teks penjelasan di sidebar
 st.sidebar.markdown("For inquiries and collaborations, feel free to contact me!")
