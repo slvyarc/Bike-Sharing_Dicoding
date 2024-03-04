@@ -47,8 +47,8 @@ The project encompasses analysis of the bike sharing dataset, including data pre
 5. Connect to a hosted runtime.
 6. Run the code cells.
 
-### For `dashboard/dashboard.py`:
+### For `dashboard/proyek_analisis_data.py`:
 1. Download the project.
 2. Install Streamlit in your terminal or command prompt using `pip install streamlit`. Install other required libraries like pandas, numpy, scipy, matplotlib, and seaborn if necessary.
 3. Note: Do not move the CSV file as it serves as the data source. Keep it in the same folder as dashboard.py.
-4. Open your preferred text editor (e.g., VSCode) and run the file by executing `streamlit run dashboard.py` in the terminal.
+4. Open your preferred text editor (e.g., VSCode) and run the file by executing `streamlit run proyek_analisis_data.py` in the terminal.
