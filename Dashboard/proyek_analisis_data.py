@@ -6,7 +6,7 @@ import plotly.express as px
 import streamlit as st
 
 # Load tabel "day"
-day_df = pd.read_csv("dashboard/cleaned_bikeshare.csv")
+day_df = pd.read_csv("https://raw.githubusercontent.com/slvyarc/Bike-Sharing_Dicoding/main/Dashboard/cleaned_bikeshare.csv")
 day_df.head()
 
 # Menghapus kolom windspeed (tidak sesuai dengan pertanyaan bisnis)
