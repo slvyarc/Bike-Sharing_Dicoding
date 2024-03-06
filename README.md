@@ -9,12 +9,13 @@ This repository contains the final project for the "Belajar Analisis Data Dengan
 │   ├── dashboard_bike.py
 │   └── day.csv
 ├── Dataset
-│   ├── Readme.txt
 │   ├── day.csv
-|   └── hour.csv
-├── notebook1.ipynb
+│   ├── hour.csv
+|   └── Readme.txt
 ├── README.md
+├── notebook1.ipynb
 └── requirements.txt
+
 ```
 
 ## Project Workflow
@@ -35,7 +36,7 @@ This repository contains the final project for the "Belajar Analisis Data Dengan
    - **Implement Filter Components**: Incorporate interactive filters for data exploration.
    - **Populate the Dashboard with Visualizations**: Present relevant visualizations to provide insights and facilitate decision-making.
 
-### For `dashboard/proyek_analisis_data.py`:
+### For `dashbboard_bike.py`:
 1. Download the project.
 2. Install Streamlit in your terminal or command prompt using pip install streamlit. Install other required libraries like pandas, matplotlib, seaborn, and plotly using separate pip install commands. Alternatively, you can install all required libraries at once by running pip install -r requirements.txt.
 3. Note: Do not move the CSV file as it serves as the data source. Keep it in the same folder as dashbboard_bike.py.
