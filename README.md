@@ -36,8 +36,8 @@ This repository contains the final project for the "Belajar Analisis Data Dengan
    - **Implement Filter Components**: Incorporate interactive filters for data exploration.
    - **Populate the Dashboard with Visualizations**: Present relevant visualizations to provide insights and facilitate decision-making.
 
-### For `dashbboard_bike.py`:
+### For `dashboard_bike.py`:
 1. Download the project.
 2. Install Streamlit in your terminal or command prompt using pip install streamlit. Install other required libraries like pandas, matplotlib, seaborn, and plotly using separate pip install commands. Alternatively, you can install all required libraries at once by running pip install -r requirements.txt.
 3. Note: Do not move the CSV file as it serves as the data source. Keep it in the same folder as dashbboard_bike.py.
-4. Open your preferred text editor (e.g., VSCode) and run the file by executing `streamlit run Dashboard/dashbboard_bike.py` in the terminal.
+4. Open your preferred text editor (e.g., VSCode) and run the file by executing `streamlit run Dashboard/dashboard_bike.py` in the terminal.
