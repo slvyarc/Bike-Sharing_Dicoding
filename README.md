@@ -4,15 +4,15 @@ This repository contains the final project for the "Belajar Analisis Data Dengan
 
 ## File Structures
 ```
-├── .streamlir
+├── .streamlit
 ├── Dashboard
-│   ├── cleaned_bikeshare.csv
-│   └── proyek_analisis_data.py
+│   ├── dashboard_bike.py
+│   └── day.csv
 ├── Dataset
 │   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
-├── Proyek_Analisis_Data.ipynb
+├── notebook1.ipynb
 ├── README.md
 └── requirements.txt
 ```
@@ -38,5 +38,5 @@ This repository contains the final project for the "Belajar Analisis Data Dengan
 ### For `dashboard/proyek_analisis_data.py`:
 1. Download the project.
 2. Install Streamlit in your terminal or command prompt using pip install streamlit. Install other required libraries like pandas, matplotlib, seaborn, and plotly using separate pip install commands. Alternatively, you can install all required libraries at once by running pip install -r requirements.txt.
-3. Note: Do not move the CSV file as it serves as the data source. Keep it in the same folder as proyek_analisis_data.py.
-4. Open your preferred text editor (e.g., VSCode) and run the file by executing `streamlit run dashboard/proyek_analisis_data.py` in the terminal.
+3. Note: Do not move the CSV file as it serves as the data source. Keep it in the same folder as dashbboard_bike.py.
+4. Open your preferred text editor (e.g., VSCode) and run the file by executing `streamlit run Dashboard/dashbboard_bike.py` in the terminal.
