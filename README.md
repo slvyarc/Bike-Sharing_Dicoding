@@ -1,4 +1,4 @@
-# Bike Project
+# Bike Rental Analysis
 
 This repository contains the final project for the "Belajar Analisis Data Dengan Python" course on Dicoding, focusing on analysis and dashboard creation using the bike sharing dataset. The project involves data wrangling, exploratory data analysis (EDA), and data visualization techniques. Additionally, a dashboard was created using Streamlit, accessible via the provided link. https://dashboardbikerent.streamlit.app/
 
